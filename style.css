@@ -17,3 +17,11 @@ ul {
     align-items: center;
     gap: 28px;
 }
+
+
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: #FFF800;
+    color: white;
+}
